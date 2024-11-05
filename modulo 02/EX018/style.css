@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: 'gun';
+    src: url(gunplay\ rg.otf) format('opentype'), url(gunplay\ 3d.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background: #9BDB84;
+}
+
+h1 {
+    font-family: 'gun', Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #2F4228;
+}
+
